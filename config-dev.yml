@@ -2,7 +2,7 @@ spring:
   application:
     name: springcloud-config-dev
   cloud: 
-	config: 
-	  info: master brach, springcloud-config-dev.yml version=1
+    config: 
+      info: master brach, springcloud-config-dev.yml version=1
   profiles:
     active: dev
